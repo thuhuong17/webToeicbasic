@@ -1,10 +1,10 @@
-# webToeicbasic
+# WebToeicbasic
 JavaSpring+ MySQL (tham khảo)
 Đây là web mình tham khảo
 Các bạn có thể sử dụng để học hỏi
-# các cài đặt
+# Cách cài đặt
 1. Download bằng cách:
-   <git clone >
+   git clone  
 2. Import file sql vào xampp
 3. Install Spring tool
    Xem video để được hướng dẫn: https://www.youtube.com/watch?v=vsryUelT1uk
